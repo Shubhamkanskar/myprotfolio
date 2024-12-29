@@ -14,7 +14,6 @@ An elegant, modern portfolio showcasing my journey as a Full Stack Engineer thro
 [Live Demo](https://shubham-portfolio.vercel.app) • [GitHub](https://github.com/Shubhamkanskar/myportfolio) • [Report Bug](https://github.com/Shubhamkanskar/myportfolio/issues)
 
 </div>
-![portfolio](https://github.com/user-attachments/assets/64aaa75a-d558-40ce-ab59-8990a9372a78)
 
 
 ## 🌟 Features
@@ -118,6 +117,8 @@ Full Stack Engineer at DeployH.AI
 - [ ] 📝 Blog Section Integration
 
 ## 📄 License
+https://github.com/user-attachments/assets/03145d40-46ec-4d08-9847-4b8a3c7a9da5
+
 
 This project is open source and available under the [MIT License](LICENSE).
 
