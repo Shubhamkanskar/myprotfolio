@@ -2,19 +2,25 @@
 
 <div align="center">
 
+![Portfolio Preview](https://github.com/user-attachments/assets/03145d40-46ec-4d08-9847-4b8a3c7a9da5)
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)](https://vercel.com)
 
+<p align="center">
 An elegant, modern portfolio showcasing my journey as a Full Stack Engineer through interactive designs and smooth animations.
+</p>
 
-[Live Demo](https://shubham-portfolio.vercel.app) • [GitHub](https://github.com/Shubhamkanskar/myportfolio) • [Report Bug](https://github.com/Shubhamkanskar/myportfolio/issues)
+<p align="center">
+  <a href="https://shubham-portfolio.vercel.app">Live Demo</a> •
+  <a href="https://github.com/Shubhamkanskar/myportfolio">GitHub</a> •
+  <a href="https://github.com/Shubhamkanskar/myportfolio/issues">Report Bug</a>
+</p>
 
 </div>
-
 
 ## 🌟 Features
 
@@ -36,7 +42,7 @@ graph TD
     
     B --> B1[Next.js 15]
     C --> C1[React 18]
-    C --> C2[javascript]
+    C --> C2[JavaScript]
     D --> D1[Tailwind CSS]
     D --> D2[Framer Motion]
     E --> E1[Client-Side Rendering]
@@ -91,9 +97,12 @@ graph TD
 <div align="center">
 
 ### Shubham Kanaskar
+
 Full Stack Engineer at DeployH.AI
 
 📍 Pune, Maharashtra, India • 💼 9+ months experience
+
+<img src="https://github.com/user-attachments/assets/03145d40-46ec-4d08-9847-4b8a3c7a9da5" alt="Profile" width="200" style="border-radius: 50%; margin: 20px 0;" />
 
 </div>
 
@@ -117,8 +126,6 @@ Full Stack Engineer at DeployH.AI
 - [ ] 📝 Blog Section Integration
 
 ## 📄 License
-https://github.com/user-attachments/assets/03145d40-46ec-4d08-9847-4b8a3c7a9da5
-
 
 This project is open source and available under the [MIT License](LICENSE).
 
@@ -131,6 +138,12 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 <div align="center">
+
+### Portfolio Preview
+
+<img src="https://github.com/user-attachments/assets/03145d40-46ec-4d08-9847-4b8a3c7a9da5" alt="Portfolio Preview" width="100%" />
+
+<br/>
 
 Made with ❤️ by [Shubham Kanaskar](https://github.com/Shubhamkanskar)
 
