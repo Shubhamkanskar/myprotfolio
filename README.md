@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Portfolio Banner](https://github.com/user-attachments/assets/819eefb2-528c-4022-8ec6-2a417848758b)
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
@@ -38,7 +37,7 @@ graph TD
     
     B --> B1[Next.js 15]
     C --> C1[React 18]
-    C --> C2[TypeScript]
+    C --> C2[javascript]
     D --> D1[Tailwind CSS]
     D --> D2[Framer Motion]
     E --> E1[Client-Side Rendering]
