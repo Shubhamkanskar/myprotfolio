@@ -15,6 +15,8 @@ An elegant, modern portfolio showcasing my journey as a Full Stack Engineer thro
 [Live Demo](https://shubham-portfolio.vercel.app) • [GitHub](https://github.com/Shubhamkanskar/myportfolio) • [Report Bug](https://github.com/Shubhamkanskar/myportfolio/issues)
 
 </div>
+![portfolio](https://github.com/user-attachments/assets/64aaa75a-d558-40ce-ab59-8990a9372a78)
+
 
 ## 🌟 Features
 
