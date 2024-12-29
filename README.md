@@ -139,9 +139,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
 
-### Portfolio Preview
-
-<img src="https://github.com/user-attachments/assets/03145d40-46ec-4d08-9847-4b8a3c7a9da5" alt="Portfolio Preview" width="100%" />
 
 <br/>
 
