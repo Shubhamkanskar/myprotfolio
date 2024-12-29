@@ -6,9 +6,9 @@ export default function Home() {
   return (
     <main className="bg-black">
       <Hero />
-      
+
       {/* About Section */}
-      <motion.section 
+      <motion.section
         id="about"
         className="py-20 px-4 relative overflow-hidden"
         initial="hidden"
@@ -27,9 +27,9 @@ export default function Home() {
           </h2>
           <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-8 shadow-xl">
             <p className="text-gray-300 text-lg leading-relaxed font-inter">
-              As a <span className="font-semibold text-blue-400">Full Stack Engineer</span> with <span className="font-semibold underline decoration-blue-400/50">9 months of hands-on experience</span> at Deployh.ai, I specialize in <span className="italic text-blue-300">MERN Stack Development 
-              and AI model optimization</span>. My journey in tech is backed by a strong educational foundation in Computer Applications, 
-              where I consistently maintained high academic performance. I combine my theoretical knowledge with practical expertise 
+              As a <span className="font-semibold text-blue-400">Full Stack Engineer</span> with <span className="font-semibold underline decoration-blue-400/50">+1 year  of hands-on experience</span> at Deployh.ai, I specialize in <span className="italic text-blue-300">MERN Stack Development
+                and AI model optimization</span>. My journey in tech is backed by a strong educational foundation in Computer Applications,
+              where I consistently maintained high academic performance. I combine my theoretical knowledge with practical expertise
               to deliver scalable and efficient web solutions.
             </p>
           </div>
@@ -37,7 +37,7 @@ export default function Home() {
       </motion.section>
 
       {/* Experience Timeline Section */}
-      <motion.section 
+      <motion.section
         id="experience"
         className="py-20 px-4 relative overflow-hidden"
         initial="hidden"
@@ -62,7 +62,7 @@ export default function Home() {
             {/* Timeline Items */}
             <div className="space-y-12">
               {/* Current Role */}
-              <motion.div 
+              <motion.div
                 className="relative flex items-center justify-between"
                 initial="hidden"
                 whileInView="visible"
@@ -94,7 +94,7 @@ export default function Home() {
                         Developing <span className="font-medium">RESTful APIs</span>
                       </p>
                       <p className="text-blue-200 font-medium">
-                        <span className="underline decoration-blue-500/50">9 months</span> of professional experience
+                        <span className="underline decoration-blue-500/50">+1 year of </span> of professional experience
                       </p>
                     </div>
                   </div>
@@ -102,7 +102,7 @@ export default function Home() {
               </motion.div>
 
               {/* Education - MCA */}
-              <motion.div 
+              <motion.div
                 className="relative flex items-center justify-between"
                 initial="hidden"
                 whileInView="visible"
@@ -117,7 +117,7 @@ export default function Home() {
                   <div className="bg-white/5 backdrop-blur-lg p-6 rounded-xl border border-purple-500/10 hover:border-purple-500/30 transition-colors duration-300">
                     <p className="text-gray-300 font-inter">
                       <span className="text-purple-300 font-semibold">CGPA: 8.0</span>
-                      <br/>
+                      <br />
                       <span className="italic text-purple-200">Specialized in Advanced Web Development and Cloud Computing</span>
                     </p>
                   </div>
@@ -133,7 +133,7 @@ export default function Home() {
               </motion.div>
 
               {/* Education - BCA */}
-              <motion.div 
+              <motion.div
                 className="relative flex items-center justify-between"
                 initial="hidden"
                 whileInView="visible"
@@ -156,7 +156,7 @@ export default function Home() {
                   <div className="bg-white/5 backdrop-blur-lg p-6 rounded-xl border border-blue-500/10 hover:border-blue-500/30 transition-colors duration-300">
                     <p className="text-gray-300 font-inter">
                       <span className="text-blue-300 font-semibold">CGPA: 7.9</span>
-                      <br/>
+                      <br />
                       <span className="italic text-blue-200">Foundation in Computer Science and Programming</span>
                     </p>
                   </div>
@@ -168,7 +168,7 @@ export default function Home() {
       </motion.section>
 
       {/* Skills Section */}
-      <motion.section 
+      <motion.section
         id="skills"
         className="py-20 px-4 relative overflow-hidden"
         initial="hidden"
