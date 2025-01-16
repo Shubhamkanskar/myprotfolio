@@ -32,7 +32,7 @@ const ProjectPopup = ({ isOpen, onClose }) => {
         { name: "Shadcn UI", icon: Box, color: "#38B2AC" }
       ],
       livePreview: "https://pdfai-taupe.vercel.app/",
-      github: "https://github.com/Shubhamkanskar",
+      github: "https://github.com/Shubhamkanskar/pdfai",
       image: "/pdf ai.png",
       featured: true
     },
@@ -46,7 +46,7 @@ const ProjectPopup = ({ isOpen, onClose }) => {
         { name: "Tailwind", icon: Box, color: "#38B2AC" }
       ],
       livePreview: "https://shubhamkanaskar.vercel.app/",
-      github: "https://github.com/Shubhamkanskar/myportfolio",
+      github: "https://github.com/Shubhamkanskar/myprotfolio",
       image: "/portfolio.png"
     },
     {
