@@ -77,7 +77,7 @@ export default function Home() {
                   <div className="bg-white/5 backdrop-blur-lg p-6 rounded-xl border border-blue-500/10 hover:border-blue-500/30 transition-colors duration-300">
                     <h3 className="text-xl font-semibold text-white mb-2 font-poppins">Full Stack Engineer</h3>
                     <p className="text-blue-400 font-medium">DeployH.AI</p>
-                    <p className="text-gray-500 italic">May 2023 - Present</p>
+                    <p className="text-gray-500 italic">April 2024 - Present</p>
                   </div>
                 </div>
                 <div className="absolute left-1/2 transform -translate-x-1/2 w-4 h-4 bg-blue-500 rounded-full shadow-lg shadow-blue-500/50"></div>

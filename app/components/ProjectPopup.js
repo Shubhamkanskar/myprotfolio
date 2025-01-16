@@ -45,7 +45,7 @@ const ProjectPopup = ({ isOpen, onClose }) => {
         { name: "TypeScript", icon: FileJson, color: "#3178C6" },
         { name: "Tailwind", icon: Box, color: "#38B2AC" }
       ],
-      livePreview: "https://shubham-portfolio.vercel.app",
+      livePreview: "https://shubhamkanaskar.vercel.app/",
       github: "https://github.com/Shubhamkanskar/myportfolio",
       image: "/portfolio.png"
     },
