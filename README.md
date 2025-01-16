@@ -9,10 +9,12 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)](https://vercel.com)
-
+## 
+</p><img width="499" alt="Screenshot 2025-01-16 131801" src="https://github.com/user-attachments/assets/1a805b94-305c-4167-9014-0f3258967527" />
 <p align="center">
 An elegant, modern portfolio showcasing my journey as a Full Stack Engineer through interactive designs and smooth animations.
-</p>
+
+
 
 <p align="center">
   <a href="https://shubham-portfolio.vercel.app">Live Demo</a> •
