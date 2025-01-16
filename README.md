@@ -94,20 +94,6 @@ graph TD
 - 🌐 Social media integration
 - 👔 Professional details
 
-## 👨‍💻 About Me
-
-<div align="center">
-
-### Shubham Kanaskar
-
-Full Stack Engineer at DeployH.AI
-
-📍 Pune, Maharashtra, India • 💼 9+ months experience
-
-<img src="https://github.com/user-attachments/assets/03145d40-46ec-4d08-9847-4b8a3c7a9da5" alt="Profile" width="200" style="border-radius: 50%; margin: 20px 0;" />
-
-</div>
-
 ## 📮 Contact
 
 <div align="center">
