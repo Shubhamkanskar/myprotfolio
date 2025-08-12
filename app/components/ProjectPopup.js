@@ -36,7 +36,7 @@ const ProjectPopup = ({ isOpen, onClose }) => {
       image: "/pdf ai.png",
       featured: true
     },
-    {
+  /*   {
       title: "Portfolio Website",
       description: "Modern portfolio website with AI integration. Showcases projects and skills with a clean, responsive design and smooth animations.",
       techStack: [
@@ -48,7 +48,7 @@ const ProjectPopup = ({ isOpen, onClose }) => {
       livePreview: "https://shubhamkanaskar.vercel.app/",
       github: "https://github.com/Shubhamkanskar/myprotfolio",
       image: "/portfolio.png"
-    },
+    }, */
     {
       title: "My Socials",
       description: "Share your every socials in one single accessible link. A centralized platform for managing and sharing all your social media presence.",
